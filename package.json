@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "melonjs": "^8.0.1"
+  },
+  "type": "module",
+  "name": "project-z",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.17"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "start": "web-dev-server --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-collins/project-z.git"
+  },
+  "keywords": [
+    "game",
+    "mentoring",
+    "project"
+  ],
+  "author": "Nathan Collins <nathan@ndcvisions.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-collins/project-z/issues"
+  },
+  "homepage": "https://github.com/nathan-collins/project-z#readme",
+  "description": ""
+}
